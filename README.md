@@ -10,7 +10,7 @@ Steel plates are inspected for surface and shape faults, and seven fault types a
 - Buscema, M., Terzi, S., & Tastle, W. (2010). *Steel Plates Faults* [Dataset]. https://doi.org/10.24432/C5J88N
 
 ## Methods
-Pareto chart (Google Sheets); box plot, Welch's ANOVA, Games-Howell post-hoc test, contingency table, chi-square test and descriptives (jamovi); fishbone diagram (draw.io); p-chart as a method demonstration.
+Pareto chart (Google Sheets); box plot, Welch's ANOVA, Games-Howell post-hoc test, contingency table, chi-square test and descriptives (jamovi); fishbone diagram; p-chart as a method demonstration.
 
 ## Key findings
 1. Other_Faults, Bumps and K_Scatch make up about 75.5% of all faults (1,466 of 1,941 plates).
