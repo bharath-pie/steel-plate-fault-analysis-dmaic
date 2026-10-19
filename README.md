@@ -1,8 +1,5 @@
 # Steel Plate Fault Analysis (Six Sigma DMAIC)
 
-![Box plot](https://github.com/bharath-pie/steel-plate-fault-analysis-dmaic/blob/main/Fig2_Boxplot.png?raw=true)
-
-
 
 ![Pareto chart](https://github.com/bharath-pie/steel-plate-fault-analysis-dmaic/blob/main/IMG-20261018-WA0014%281%29.jpg?raw=true)
 
