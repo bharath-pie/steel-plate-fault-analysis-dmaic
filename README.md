@@ -1,5 +1,20 @@
 # Steel Plate Fault Analysis (Six Sigma DMAIC)
 
+![Box plot](https://github.com/bharath-pie/steel-plate-fault-analysis-dmaic/blob/main/Fig2_Boxplot.png?raw=true)
+
+
+
+![Pareto chart](https://github.com/bharath-pie/steel-plate-fault-analysis-dmaic/blob/main/IMG-20261018-WA0014%281%29.jpg?raw=true)
+
+
+
+![Fishbone diagram](https://github.com/bharath-pie/steel-plate-fault-analysis-dmaic/blob/main/Fig2_Fishbone.png?raw=true)
+
+
+
+![Control chart](https://github.com/bharath-pie/steel-plate-fault-analysis-dmaic/blob/main/Fig4_Control_Chart.png?raw=true)
+
+
 A personal project by Ukkusuri Bharath (NIT Kurukshetra) that applies the DMAIC method to a public dataset of faulty steel plates.
 
 ## The problem
